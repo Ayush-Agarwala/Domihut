@@ -6,6 +6,10 @@ A demo e-commerce website for Pizza delivery. I have made this using React js. T
 
 This allows user to order a pizza(fake) using form.Order one to check it yourself🍕.
 
+## Netlify Link
+
+https://rad-cranachan-01eb4b.netlify.app/
+
 ## Features
 
 - Frontend built with React.js.
